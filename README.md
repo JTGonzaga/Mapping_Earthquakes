@@ -1,1 +1,2 @@
 # Mapping_Earthquakes
+I was tasked with creating multiple maps utilizing GeoJSON files and Leaflet to track earthquake data. A part of this process was creating separate branches of this repository to allow files to be accessed by other people without impacting the main branch. The final challenge was creating a map that had multiple options for styles as well as displaying techtonic plate faults and displaying major earthquakes. This information was pulled from GeoJSON files online.
